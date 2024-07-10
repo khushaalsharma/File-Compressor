@@ -8,7 +8,7 @@
 Available only on text files
 
 ### RESULT:
-Reduction by: ### 46.934%
+Reduction by: 46.934%
 
 ### Some Future Upgrades
 1) Adding Multithreading to speed up the process.
